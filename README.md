@@ -7,3 +7,5 @@ Add the content to search for in the $search array and the content to swap it wi
 $search = array( 'mispelled', 'wac', 'saerch', 'Github' );
 $replace = array( 'misspelled', 'WAC', 'search', 'GitHub' );
 ```
+
+*Plugin created for Wac Arts College*
